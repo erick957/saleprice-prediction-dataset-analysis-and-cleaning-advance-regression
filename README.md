@@ -1,3 +1,6 @@
+# GOOGLE COLAB FILE OF THE PROJECT
+[Project Google Colab File](https://colab.research.google.com/drive/1vQY-XEFJSdEkW2PQOSf1j13Yk8L-XXNw?usp=sharing)
+
 
 # 🏠 House Price Prediction Project
 
